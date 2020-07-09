@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     // edit below
     title: `Info3 cheatsheet`,
-    author: `Gatsby`,
+    author: `Cong`,
     description: `cheatsheet for info3`,
     siteUrl: `https://info3cheatsheet.netlify.app/`,
     social: {

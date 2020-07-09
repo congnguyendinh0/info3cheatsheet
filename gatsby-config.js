@@ -6,7 +6,7 @@ module.exports = {
     description: `cheatsheet for info3`,
     siteUrl: `https://info3cheatsheet.netlify.app/`,
     social: {
-      twitter: `gatsbyjs`,
+      github: `congnguyendinh0`,
     },
   },
   plugins: [

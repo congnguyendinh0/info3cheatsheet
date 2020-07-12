@@ -92,3 +92,13 @@ Key points
 * ◇ Models of application systems architectures help us understand and compare applications, validate application system designs and assess large-scale components for reuse.
 * ◇ Transaction processing systems are interactive systems that allow information in a database to be remotely accessed and modified by a number of users.
 * ◇ Language processing systems are used to translate texts from one language into another and to carry out the instructions specified in the input language. They include a translator and an abstract machine that executes the generated language.
+
+
+
+### Testing
+
+* ◇ When testing software,you should try to‘ break’the software by using experience and guidelines to choose types of test case that have been effective in discovering defects in other systems.
+* ◇ Wherever possible, you should write automated tests.The tests are embedded in a program that can be run every time a change is made to a system.
+* ◇ Test first development is an approach to development where tests are written before the code to be tested.
+* ◇ Scenariotestinginvolvesinventingatypicalusagescenarioand using this to derive test cases.
+* ◇ Acceptancetestingisausertestingprocesswheretheaimisto decide if the software is good enough to be deployed and used in its operational environment.

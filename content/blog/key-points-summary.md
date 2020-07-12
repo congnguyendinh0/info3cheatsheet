@@ -127,3 +127,17 @@ Key points
 * ◇ Software productlines are related applications that are developed from one or more base applications. A generic system is adapted and specialized to meet specific requirements for functionality, target platform or operational configuration.
 * ◇ Application system reuse is concerned with the reuse of large-scale, off-the-shelf systems. These provide a lot of functionality and their reuse can radically reduce costs and development time. Systems may be developed by configuring a single, generic application system or by integrating two or more application systems.
 * ◇ Potential problems with application system reuse include lack of control over functionality and performance, lack of control over system evolution, the need for support from external vendors and difficulties in ensuring that systems can inter-operate.
+
+
+
+### Component-based software engineering
+
+* ◇ CBSE is a reuse-based approach to defining and implementing loosely coupled components into systems.
+* ◇ A component is a software unit whose functionality and dependencies are completely defined by its interfaces.
+* ◇ Components may be implemented as executable elements included in a system or as external services.
+* ◇ A component model defines a set of standards that component providers and composers should follow.
+* ◇ The key CBSE processes are CBSE for reuse and CBSE with reuse.
+* ◇ During the CBSE process, the processes of requirements engineering and system design are interleaved.
+* ◇ Component composition is the process of ‘wiring’ components together to create a system.
+* ◇ When composing reusable components, you normally have to write adaptors to reconcile different component interfaces.
+* ◇ When choosing compositions, you have to consider required functionality, non-functional requirements and system evolution.

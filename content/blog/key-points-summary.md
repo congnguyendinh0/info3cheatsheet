@@ -102,3 +102,28 @@ Key points
 * ◇ Test first development is an approach to development where tests are written before the code to be tested.
 * ◇ Scenariotestinginvolvesinventingatypicalusagescenarioand using this to derive test cases.
 * ◇ Acceptancetestingisausertestingprocesswheretheaimisto decide if the software is good enough to be deployed and used in its operational environment.
+
+
+
+### Evolution
+
+* ◇ Software development and evolution can be thought of as an integrated, iterative process that can be represented using a spiral model.
+* ◇ For custom systems, the costs of software maintenance usually exceed the software development costs.
+* ◇ The process of software evolution is driven by requests for changes and includes change impact analysis, release planning and change implementation.
+* ◇ Legacy systems are older software systems, developed using obsolete software and hardware technologies, that remain useful for a business.
+* ◇ It is often cheaper and less risky to maintain a legacy system than to develop a replacement system using modern technology.
+* ◇ The business value of a legacy system and the quality of the application should be assessed to help decide if a system should be replaced, transformed or maintained.
+* ◇ There are 3 types of software maintenance, namely bug fixing, modifying software to work in a new environment, and implementing new or changed requirements.
+* ◇ Software re-engineering is concerned with re-structuring and re-documenting software to make it easier to understand and change.
+* ◇ Refactoring, making program changes that preserve functionality, is a form of preventative maintenance.
+
+
+
+### Software reuse
+
+* ◇ There are many different ways to reuse software.These range from the reuse of classes and methods in libraries to the reuse of complete application systems.
+* ◇ The advantages of software reuse are lower costs,faster software development and lower risks. System dependability is increased. Specialists can be used more effectively by concentrating their expertise on the design of reusable components.
+* ◇ Application frameworks are collections of concrete and abstract objects that are designed for reuse through specialization and the addition of new objects. They usually incorporate good design practice through design patterns.
+* ◇ Software productlines are related applications that are developed from one or more base applications. A generic system is adapted and specialized to meet specific requirements for functionality, target platform or operational configuration.
+* ◇ Application system reuse is concerned with the reuse of large-scale, off-the-shelf systems. These provide a lot of functionality and their reuse can radically reduce costs and development time. Systems may be developed by configuring a single, generic application system or by integrating two or more application systems.
+* ◇ Potential problems with application system reuse include lack of control over functionality and performance, lack of control over system evolution, the need for support from external vendors and difficulties in ensuring that systems can inter-operate.

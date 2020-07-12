@@ -141,3 +141,28 @@ Key points
 * ◇ Component composition is the process of ‘wiring’ components together to create a system.
 * ◇ When composing reusable components, you normally have to write adaptors to reconcile different component interfaces.
 * ◇ When choosing compositions, you have to consider required functionality, non-functional requirements and system evolution.
+
+### Project management
+
+* ◇ Good projectmanagementisessentialifsoftwareengineering projects are to be developed on schedule and within budget.
+* ◇ Softwaremanagementisdistinctfromotherengineering management. Software is intangible. Projects may be novel or innovative with no body of experience to guide their management. Software processes are not as mature as traditional engineering processes.
+* ◇ Riskmanagementinvolvesidentifyingandassessingprojectrisksto establish the probability that they will occur and the consequences for the project if that risk does arise. You should make plans to avoid, manage or deal with likely risks if or when they arise.
+* ◇ Peoplemanagementinvolveschoosingtherightpeopletoworkona project and organizing the team and its working environment.
+* ◇ Peoplearemotivatedbyinteractionwithotherpeople,therecognition of management and their peers, and by being given opportunities for personal development.
+* ◇ Softwaredevelopmentgroupsshouldbefairlysmallandcohesive. The key factors that influence the effectiveness of a group are the people in that group, the way that it is organized and the communication between group members.
+* ◇ Communicationswithinagroupareinfluencedbyfactorssuchasthe status of group members, the size of the group, the gender composition of the group, personalities and available communication channels.
+
+
+
+### Project planning
+
+* ◇ Thepricechargedforasystemdoesnotjustdependonitsestimated development costs and the profit required by the development company. Organizational factors may mean that the price is increased to compensate for increased risk or decreased to gain competitive advantage.
+* ◇ Softwareisoftenpricedtogainacontractandthefunctionalityofthe system is then adjusted to meet the estimated price.
+* ◇ Plan-drivendevelopmentisorganizedaroundacompleteproject plan that defines the project activities, the planned effort, the activity schedule and who is responsible for each activity.
+* ◇ Projectschedulinginvolvesthecreationofvariousgraphical representations of part of the project plan. Bar charts, which show the activity duration and staffing timelines, are the most commonly used schedule representations.
+* ◇ Aprojectmilestoneisapredictableoutcomeofanactivityorsetof activities. At each milestone, a formal report of progress should be presented to management. A deliverable is a work product that is delivered to the project customer.
+* ◇ Theagileplanninggameinvolvesthewholeteaminprojectplanning. The plan is developed incrementally and, if problems arise, it is adjusted so that software functionality is reduced instead of delaying the delivery of an increment.+
+
+Estimationtechniquesforsoftwaremaybeexperience-based,where managers judge the effort required, or algorithmic, where the effort required is computed from other estimated project parameters.
+
+TheCOCOMOIIcostingmodelisamaturealgorithmiccostmodel that takes project, product, hardware and personnel attributes into account when formulating a cost estimate.

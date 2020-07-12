@@ -47,3 +47,36 @@ description: collection of all keypoints
 * ◇ The software requirements document is an agreed statement of the system requirements. It should be organized so that both system customers and software developers can use it.
 * ◇ Requirements validation is the process of checking the requirements for validity, consistency, completeness, realism and verifiability.
 * ◇ Business, organizational and technical changes inevitably lead to changes to the requirements for a software system. Requirements management is the process of managing and controlling these changes.
+
+
+
+### Missing Requirements Slides
+
+Key points
+
+* ◇ Requirements for a software system set out what the system should do and define constraints on its operation and implementation.
+* ◇ Functional requirements are statements of the services that the system must provide or are descriptions of how some computations must be carried out.
+* ◇ Non-functional requirements often constrain the system being developed and the development process being used.
+* ◇ They often relate to the emergent properties of the system and therefore apply to the system as a whole.
+
+30/10/2014 Chapter 4 Requirements Engineering 85
+
+Key points
+
+* ◇ The requirements engineering process is an iterative process that includes requirements elicitation, specification and validation.
+* ◇ Requirements elicitation is an iterative process that can be represented as a spiral of activities – requirements discovery, requirements classification and organization, requirements negotiation and requirements documentation.
+* ◇ You can use a range of techniques for requirements elicitation including interviews and ethnography. User stories and scenarios may be used to facilitate discussions.
+
+30/10/2014 Chapter 4 Requirements Engineering 86
+
+Key points
+
+* ◇ Requirements specification is the process of formally documenting the user and system requirements and creating a software requirements document.
+* ◇ The software requirements document is an agreed statement of the system requirements. It should be organized so that both system customers and software developers can use it.
+
+30/10/2014 Chapter 4 Requirements Engineering 87
+
+Key points
+
+* ◇ Requirements validation is the process of checking the requirements for validity, consistency, completeness, realism and verifiability.
+* ◇ Business, organizational and technical changes inevitably lead to changes to the requirements for a software system. Requirements management is the process of managing and controlling these changes.

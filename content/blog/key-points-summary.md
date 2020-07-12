@@ -71,3 +71,24 @@ Key points
 ◇ Requirements validation is the process of checking the requirements for validity, consistency, completeness, realism and verifiability.
 
 * ◇ Business, organizational and technical changes inevitably lead to changes to the requirements for a software system. Requirements management is the process of managing and controlling these changes.
+
+
+
+### System Models
+
+* ◇ Behavioral models are used to describe the dynamic behavior of an executing system. This behavior can be modeled from the perspective of the data processed by the system, or by the events that stimulate responses from a system.
+* ◇ Activity diagrams may be used to model the processing of data, where each activity represents one process step.
+* ◇ State diagrams are used to model a system’s behavior in response to internal or external events.
+* ◇ Model-driven engineering is an approach to software development in which a system is represented as a set of models that can be automatically transformed to executable code.
+
+
+
+### Architecture Design
+
+* ◇ A software architecture is a description of how a software system is organized.
+* ◇ Architectural design decisions include decisions on the type of application, the distribution of the system, the architectural styles to be used.
+* ◇ Architectures may be documented from several different perspectives or views such as a conceptual view, a logical view, a process view, and a development view.
+* ◇ Architectural patterns are a means of reusing knowledge about generic system architectures. They describe the architecture, explain when it may be used and describe its advantages and disadvantages.
+* ◇ Models of application systems architectures help us understand and compare applications, validate application system designs and assess large-scale components for reuse.
+* ◇ Transaction processing systems are interactive systems that allow information in a database to be remotely accessed and modified by a number of users.
+* ◇ Language processing systems are used to translate texts from one language into another and to carry out the instructions specified in the input language. They include a translator and an abstract machine that executes the generated language.

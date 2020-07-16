@@ -19,8 +19,6 @@ description: collection of all keypoints
 
   • Legacy systems include business processes, application software, support software and system hardware.
 
-
-
 ### Software Processes
 
 * Software processes are the activities involved in producing and evolving a software system.
@@ -34,8 +32,6 @@ description: collection of all keypoints
 * • Evolution is concerned with modifying the system after it is in use.
 * • The Rational Unified Process is a generic process model that separates activities from phases.
 * • CASE technology supports software process activities.
-
-
 
 ### Requirements-Engineering
 
@@ -51,8 +47,6 @@ description: collection of all keypoints
 * ◇ The software requirements document is an agreed statement of the system requirements. It should be organized so that both system customers and software developers can use it.
 * ◇ Requirements validation is the process of checking the requirements for validity, consistency, completeness, realism and verifiability.
 * ◇ Business, organizational and technical changes inevitably lead to changes to the requirements for a software system. Requirements management is the process of managing and controlling these changes.
-
-
 
 ### Missing Requirements Slides
 
@@ -72,16 +66,12 @@ Key points
 
 * ◇ Business, organizational and technical changes inevitably lead to changes to the requirements for a software system. Requirements management is the process of managing and controlling these changes.
 
-
-
 ### System Models
 
 * ◇ Behavioral models are used to describe the dynamic behavior of an executing system. This behavior can be modeled from the perspective of the data processed by the system, or by the events that stimulate responses from a system.
 * ◇ Activity diagrams may be used to model the processing of data, where each activity represents one process step.
 * ◇ State diagrams are used to model a system’s behavior in response to internal or external events.
 * ◇ Model-driven engineering is an approach to software development in which a system is represented as a set of models that can be automatically transformed to executable code.
-
-
 
 ### Architecture Design
 
@@ -93,8 +83,6 @@ Key points
 * ◇ Transaction processing systems are interactive systems that allow information in a database to be remotely accessed and modified by a number of users.
 * ◇ Language processing systems are used to translate texts from one language into another and to carry out the instructions specified in the input language. They include a translator and an abstract machine that executes the generated language.
 
-
-
 ### Testing
 
 * ◇ When testing software,you should try to‘ break’the software by using experience and guidelines to choose types of test case that have been effective in discovering defects in other systems.
@@ -102,8 +90,6 @@ Key points
 * ◇ Test first development is an approach to development where tests are written before the code to be tested.
 * ◇ Scenariotestinginvolvesinventingatypicalusagescenarioand using this to derive test cases.
 * ◇ Acceptancetestingisausertestingprocesswheretheaimisto decide if the software is good enough to be deployed and used in its operational environment.
-
-
 
 ### Evolution
 
@@ -117,8 +103,6 @@ Key points
 * ◇ Software re-engineering is concerned with re-structuring and re-documenting software to make it easier to understand and change.
 * ◇ Refactoring, making program changes that preserve functionality, is a form of preventative maintenance.
 
-
-
 ### Software reuse
 
 * ◇ There are many different ways to reuse software.These range from the reuse of classes and methods in libraries to the reuse of complete application systems.
@@ -127,8 +111,6 @@ Key points
 * ◇ Software productlines are related applications that are developed from one or more base applications. A generic system is adapted and specialized to meet specific requirements for functionality, target platform or operational configuration.
 * ◇ Application system reuse is concerned with the reuse of large-scale, off-the-shelf systems. These provide a lot of functionality and their reuse can radically reduce costs and development time. Systems may be developed by configuring a single, generic application system or by integrating two or more application systems.
 * ◇ Potential problems with application system reuse include lack of control over functionality and performance, lack of control over system evolution, the need for support from external vendors and difficulties in ensuring that systems can inter-operate.
-
-
 
 ### Component-based software engineering
 
@@ -152,8 +134,6 @@ Key points
 * ◇ Softwaredevelopmentgroupsshouldbefairlysmallandcohesive. The key factors that influence the effectiveness of a group are the people in that group, the way that it is organized and the communication between group members.
 * ◇ Communicationswithinagroupareinfluencedbyfactorssuchasthe status of group members, the size of the group, the gender composition of the group, personalities and available communication channels.
 
-
-
 ### Project planning
 
 * ◇ Thepricechargedforasystemdoesnotjustdependonitsestimated development costs and the profit required by the development company. Organizational factors may mean that the price is increased to compensate for increased risk or decreased to gain competitive advantage.
@@ -166,3 +146,7 @@ Key points
 Estimationtechniquesforsoftwaremaybeexperience-based,where managers judge the effort required, or algorithmic, where the effort required is computed from other estimated project parameters.
 
 TheCOCOMOIIcostingmodelisamaturealgorithmiccostmodel that takes project, product, hardware and personnel attributes into account when formulating a cost estimate.
+
+
+
+keypoints are written by professor weber wulff
